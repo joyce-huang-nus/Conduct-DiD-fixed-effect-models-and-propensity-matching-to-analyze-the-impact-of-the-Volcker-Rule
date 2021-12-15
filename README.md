@@ -88,4 +88,4 @@ In the beginning, we used the simple DiD model with a time indicator, and got th
 ### Result 01: Simple DiD model with a time indicator
 bhc_avgtradingratio =0.0024+0.0004 after_DFA_1 
 
-
+<img width="311" alt="result" src="https://user-images.githubusercontent.com/88580416/146180239-2c4c25dd-6da8-4dd3-aba1-bdda7e6a8530.PNG">
